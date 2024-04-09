@@ -14,6 +14,6 @@ constant: SCHEMA_NAME {
 
 # Looks like it should just be a single table, so no _* notation
 constant: BILLING_EXPORT_TABLE_NAME {
-  value: "gcp_billing_export_v1_014C1A_D21E49_A864DF"
+  value: "gcp_billing_export_resource_v1_019749_5EABD1_48430A"
   export: override_optional
 }
